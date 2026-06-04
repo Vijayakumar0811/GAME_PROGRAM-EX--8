@@ -1,5 +1,5 @@
 # GAME_PROGRAM-EX--8
-## Landscape Creation and Foliage in Unreal Engine
+# EX:8 Landscape Creation and Foliage in Unreal Engine
 
 ## Aim
 To create a landscape in Unreal Engine, apply a custom landscape material, and add foliage for realistic environment generation.
@@ -37,6 +37,4 @@ To create a landscape in Unreal Engine, apply a custom landscape material, and a
 
 
 ## Result
-A landscape was successfully created and enhanced with:
-- A layered, textured material using `M_Landscape`.
-- Static mesh fol
+A landscape was successfully created in Unreal Engine and a custom landscape material was applied using multiple texture layers. Foliage such as trees, grass, and bushes was added to the terrain, resulting in a realistic and visually appealing outdoor environment.
